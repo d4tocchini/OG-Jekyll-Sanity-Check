@@ -1,4 +1,4 @@
 OG-Jekyll-Sanity-Check
 ======================
 
-This is a just a test
+This is a just test
